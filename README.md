@@ -5,6 +5,3 @@ This project was completed as a part of a Database Management Systems class.
 _GroupBuy_ uses a LAMP stack, with a PHP/mySQL backend was hosted on a Linux server running Apache. Unfortunately, the project is no longer hosted online.
 
 The frontend was primarily developed by one of my teammates, while I was responsible for the backend PHP development and management/connection to the mySQL database.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
